@@ -6,7 +6,7 @@ import Root from './components/root';
 
 // Add react-router-dom imports
 import { RouterProvider, createBrowserRouter, createRoutesFromElements, Route } from 'react-router-dom';
-import Search from './components/search';
+// import Search from './components/search';
 // create router with JSX Route elements
 const appRouter = createBrowserRouter(createRoutesFromElements( 
 
